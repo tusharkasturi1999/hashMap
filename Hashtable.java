@@ -8,7 +8,8 @@ public class Hashtable<T, T1> {
 		T key;
 		T1 data;
 		Node<T, T1> next;
-
+  
+		
 		/*
 		 * this is a constructor of class Node this constructor will create node with
 		 * data of type T and next will be null
